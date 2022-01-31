@@ -3,14 +3,14 @@ Code-path Prework project
 ## Hello World
 
 ### App Description
-`TODO://` Add app description
+  This is hello world
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 
 <img src="https://i.imgur.com/SG0aeWC.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
